@@ -294,7 +294,7 @@ export default function App() {
 
       <div className="fixed bottom-4 right-4 z-50">
         <Button onClick={() => toast('Привіт, я Ozzoxiff або ж Максим Рибачук')} variant="outline" size="sm">
-          Про автора
+          About the Developer
         </Button>
       </div>
     </div>

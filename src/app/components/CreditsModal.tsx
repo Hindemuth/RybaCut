@@ -71,7 +71,7 @@ export function CreditsModal({ isOpen, onClose }: CreditsModalProps) {
 
           {/* Features highlight */}
           <div className="bg-muted/50 rounded-lg p-4 space-y-2">
-            <h4 className="font-medium text-sm mb-3">✨ Features</h4>
+            <h4 className="font-medium text-sm mb-3">Features</h4>
             <div className="grid grid-cols-2 gap-2 text-xs text-muted-foreground">
               <div className="flex items-center gap-2">
                 <div className="w-1.5 h-1.5 rounded-full bg-primary" />
